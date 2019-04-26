@@ -1,0 +1,14 @@
+$font-stack:    Arial, sans-serif;
+$primary-color: #333;
+$pretty-red: red;
+$blue-face: blue;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+
+h1 {
+	color: $blue-face;
+	font-size: 3rem;
+}
