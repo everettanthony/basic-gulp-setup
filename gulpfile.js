@@ -8,7 +8,7 @@ var gulp = require("gulp"),
 
 var paths = {
     styles: {
-        src: "src/scss/*.scss",
+        src: "src/css/*.scss",
         dest: "src/css"
     }
 };
